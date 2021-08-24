@@ -14,7 +14,10 @@ sbt makePom
 ```
 
 Into target folder, find file with ".pom" extension.
-Rename file in pom.xml and move it into root of project.
+Rename file in pom.xml and move it into root of project. For example:
+```
+copy target\scala-2.12\myproject_2.12-1.0.0.pom pom.xml
+```
 
 From command line:
 ```
