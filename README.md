@@ -1,5 +1,4 @@
-# Create BOM in 
-Simple overview of how to create a BOM file in sbt/scala projects with SBT and Maven.
+# Simple overview of how to create a BOM file in sbt/scala projects with SBT and Maven.
 BOM file is used by Dependency-Track[Dependency-Track](https://dependencytrack.org/), an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain
 
 ## How to create a BOM file
