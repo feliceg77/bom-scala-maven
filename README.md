@@ -1,0 +1,1 @@
+# bom-scala-maven
